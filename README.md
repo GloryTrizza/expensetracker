@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Financial Tracker
+
+This app helps to keep an accurate record of your money inflow and outflow.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
